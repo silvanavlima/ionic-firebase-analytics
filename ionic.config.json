@@ -1,0 +1,7 @@
+{
+  "name": "integracaoFirebase",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
